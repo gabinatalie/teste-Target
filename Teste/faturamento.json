@@ -1,0 +1,35 @@
+{
+  "faturamento": [    
+    {"dia": 1, "valor": 1200},
+    {"dia": 2, "valor": 1800},
+    {"dia": 3, "valor": null},
+    {"dia": 4, "valor": 2500},
+    {"dia": 5, "valor": 3000},
+    {"dia": 6, "valor": 0},
+    {"dia": 7, "valor": 1100},
+    {"dia": 8, "valor": 1500},
+    {"dia": 9, "valor": null},
+    {"dia": 10, "valor": 900},
+    {"dia": 11, "valor": 1300},
+    {"dia": 12, "valor": 1820},
+    {"dia": 13, "valor": null},
+    {"dia": 14, "valor": 2540},
+    {"dia": 15, "valor": 3600},
+    {"dia": 16, "valor": 0},
+    {"dia": 17, "valor": 1150},
+    {"dia": 18, "valor": 1530},
+    {"dia": 19, "valor": null},
+    {"dia": 20, "valor": 900},
+    {"dia": 21, "valor": 1800},
+    {"dia": 22, "valor": 1810},
+    {"dia": 23, "valor": null},
+    {"dia": 24, "valor": 2520},
+    {"dia": 25, "valor": 3600},
+    {"dia": 26, "valor": 0},
+    {"dia": 27, "valor": 1150},
+    {"dia": 28, "valor": 1580},
+    {"dia": 29, "valor": null},
+    {"dia": 30, "valor": 1930}
+  ]
+}
+
